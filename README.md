@@ -8,3 +8,5 @@ A python script that shows the current Dead by Daylight Shrine of Secrets perks 
 - Displays perk information
 
 ## Requirements
+
+- requests library
