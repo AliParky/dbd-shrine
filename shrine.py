@@ -7,3 +7,6 @@ def fetch_shrine_data():
 
 shrine_data = fetch_shrine_data()["data"]
 print(shrine_data)
+
+for perk in shrine_data["perks"]:
+    print(perk)
