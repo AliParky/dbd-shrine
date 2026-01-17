@@ -14,3 +14,4 @@ A python script that shows the current Dead by Daylight Shrine of Secrets perks 
 ## Installation
 
 1. Install Python if you don't have it
+2. Install the requests package
