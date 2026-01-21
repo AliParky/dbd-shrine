@@ -14,4 +14,7 @@ A simple python script that shows the current Dead by Daylight Shrine of Secrets
 ## Installation
 
 1. Install Python if you don't have it
-2. Install the requests package
+2. Install the required packages:
+```
+pip install requests
+```
