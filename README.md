@@ -1,6 +1,6 @@
 # dbd-shrine
 
-A simple python script that shows the current Dead by Daylight Shrine of Secrets perks using the Nightlight API.
+A simple python script that fetches and displays the current Dead by Daylight Shrine of Secrets perks using the Nightlight API.
 
 ## Features
 
