@@ -8,6 +8,7 @@ def fetch_shrine_data():
         response.raise_for_status()
         return response.json()
     except:
+        print("Error fetching shrine data")
         return None
 
 shrine_data = fetch_shrine_data()
