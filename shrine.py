@@ -16,4 +16,4 @@ if shrine_data:
     shrine_data = shrine_data["data"]
 
 for perk in shrine_data["perks"]:
-    print(perk)
+    print(perk['name'])
