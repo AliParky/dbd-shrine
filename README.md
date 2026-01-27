@@ -9,6 +9,7 @@ A simple Python script that fetches and displays the current Dead by Daylight Sh
 
 ## Requirements
 
+- Python
 - requests library
 
 ## Installation
