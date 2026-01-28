@@ -7,7 +7,7 @@ def fetch_shrine_data():
         response = requests.get(url)
         response.raise_for_status()
         return response.json()
-    except:
+    except requests.RequestException:
         print("Error fetching shrine data")
         return None
 
