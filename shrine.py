@@ -11,6 +11,9 @@ def fetch_shrine_data():
         print(f"Error fetching shrine data: {e}")
         return None
 
+def format_shrine_data(shrine_data):
+    return
+
 shrine_data = fetch_shrine_data()
 if shrine_data:
     shrine_data = shrine_data["data"]
