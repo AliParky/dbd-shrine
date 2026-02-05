@@ -12,6 +12,7 @@ def fetch_shrine_data():
         return None
 
 def format_shrine_data(shrine_data):
+    data = shrine_data["data"]
     return
 
 shrine_data = fetch_shrine_data()
