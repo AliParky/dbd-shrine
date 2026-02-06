@@ -7,6 +7,7 @@ A simple Python script that fetches and displays the current Dead by Daylight Sh
 - Fetches current shrine data
 - Displays perk information including:
   - Perk name
+  - Shard cost
 
 ## Requirements
 
