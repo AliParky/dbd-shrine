@@ -23,3 +23,5 @@ pip install requests
 ```
 
 ## API Information
+
+This program uses the unofficial Nightlight API
