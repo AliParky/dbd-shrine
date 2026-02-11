@@ -15,6 +15,7 @@ def format_shrine_data(shrine_data):
     data = shrine_data["data"]
     for perk in data["perks"]:
         print(perk["name"])
+        print(perk["character"])
     return
 
 shrine_data = fetch_shrine_data()
