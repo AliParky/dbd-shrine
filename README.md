@@ -25,4 +25,4 @@ pip install requests
 
 ## API Information
 
-This program uses the unofficial Nightlight API
+This program uses the unofficial Nightlight API endpoint
