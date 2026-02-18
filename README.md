@@ -27,4 +27,4 @@ pip install requests
 
 This program uses the unofficial Nightlight API endpoint: https://api.nightlight.gg/v1/shrine
 
-The API returns the current shrine perks
+The API returns JSON data with the current shrine perks
