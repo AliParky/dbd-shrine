@@ -17,7 +17,7 @@ def format_shrine_data(shrine_data):
         print(f"\n{perk['name']}")
         print(f"   Character: {perk['character']}")
         print(f"   Cost: {perk['cost']}")
-        print(perk['usage_tier'])
+        print(f"   Usage Tier: {perk['usage_tier']}")
     return
 
 shrine_data = fetch_shrine_data()
