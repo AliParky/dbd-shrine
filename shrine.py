@@ -12,6 +12,8 @@ def fetch_shrine_data():
         return None
 
 def format_shrine_data(shrine_data):
+    if not shrine_data:
+        return
     data = shrine_data["data"]
     print("Available Perks:")
     for perk in data["perks"]:
