@@ -24,6 +24,8 @@ A simple Python script that fetches and displays the current Dead by Daylight Sh
 pip install requests
 ```
 
+## Usage
+
 ## API Information
 
 This program uses the unofficial Nightlight API endpoint: https://api.nightlight.gg/v1/shrine
