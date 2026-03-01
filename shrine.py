@@ -15,7 +15,7 @@ def format_shrine_data(shrine_data):
     if not shrine_data:
         return
     data = shrine_data["data"]
-    print("Shrine of Secrets")
+    print("Dead by Daylight - Shrine of Secrets")
     print("Available Perks:")
     for perk in data["perks"]:
         print(f"\n{perk['name']}")
