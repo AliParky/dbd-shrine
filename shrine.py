@@ -13,6 +13,7 @@ def fetch_shrine_data():
 
 def format_shrine_data(shrine_data):
     if not shrine_data:
+        print("Error")
         return
     data = shrine_data["data"]
     print("Dead by Daylight - Shrine of Secrets")
