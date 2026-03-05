@@ -27,6 +27,9 @@ pip install requests
 ## Usage
 
 Simply run the script
+```
+python shrine.py
+```
 
 ## API Information
 
