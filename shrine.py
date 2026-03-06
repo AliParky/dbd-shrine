@@ -15,6 +15,7 @@ def format_shrine_data(shrine_data):
     if not shrine_data:
         print("Failed to retrieve shrine data")
         return
+    start_date = shrine_data["start"]
     data = shrine_data["data"]
     print("Dead by Daylight - Shrine of Secrets")
     print("Available Perks:")
