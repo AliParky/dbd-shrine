@@ -26,7 +26,7 @@ pip install requests
 
 ## Usage
 
-Simply run the script
+Simply run the script:
 ```
 python shrine.py
 ```
