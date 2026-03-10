@@ -16,7 +16,7 @@ def format_shrine_data(shrine_data):
         print("Failed to retrieve shrine data")
         return
     start_date = shrine_data["start"].replace("Z", "+00:00")
-    end_date = shrine_data["end"]
+    end_date = shrine_data["end"].replace("Z", "+00:00")
     data = shrine_data["data"]
     print("Dead by Daylight - Shrine of Secrets")
     print("Available Perks:")
