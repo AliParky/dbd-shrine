@@ -35,4 +35,4 @@ python shrine.py
 
 This program uses the unofficial Nightlight API endpoint: https://api.nightlight.gg/v1/shrine
 
-The API returns JSON data with the current shrine perks and their costs
+The API returns JSON data with the current shrine perks, their costs and usage statistics.
