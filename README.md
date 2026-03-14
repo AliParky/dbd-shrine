@@ -21,7 +21,7 @@ A simple Python script that fetches and displays the current Dead by Daylight Sh
 1. Install Python if you don't have it: https://python.org/downloads/
 2. Install the required packages:
 ```
-pip install requests
+pip install requests, datetime
 ```
 
 ## Usage
