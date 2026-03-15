@@ -1,4 +1,5 @@
-import requests, datetime
+import requests
+from datetime import datetime
 
 def fetch_shrine_data():
     url = "https://api.nightlight.gg/v1/shrine"
