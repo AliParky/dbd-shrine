@@ -16,9 +16,9 @@ def format_shrine_data(shrine_data):
     if not shrine_data:
         print("Failed to retrieve shrine data")
         return
+    data = shrine_data["data"]
     start_date = datetime.fromisoformat(data["start"].replace("Z", "+00:00"))
     end_date = shrine_data["end"].replace("Z", "+00:00")
-    data = shrine_data["data"]
     print("Dead by Daylight - Shrine of Secrets")
     print("Available Perks:")
     for perk in data["perks"]:
