@@ -31,6 +31,8 @@ Simply run the script:
 python shrine.py
 ```
 
+## Sample Output
+
 ## API Information
 
 This program uses the unofficial Nightlight API endpoint: https://api.nightlight.gg/v1/shrine
