@@ -13,7 +13,7 @@ def fetch_shrine_data():
         return None
 
 def format_shrine_data(shrine_data):
-    if not shrine_data:
+    if not shrine_data or shrine_data.get("status") != "success":
         print("Failed to retrieve shrine data")
         return
     data = shrine_data["data"]
