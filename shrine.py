@@ -14,7 +14,7 @@ def fetch_shrine_data():
 
 def format_shrine_data(shrine_data):
     if not shrine_data or shrine_data.get("status") != "success":
-        print("Failed to retrieve shrine data")
+        print("Failed to retrieve shrine data or API returned an error")
         return
     data = shrine_data["data"]
     start_date = datetime.fromisoformat(data["start"].replace("Z", "+00:00"))
