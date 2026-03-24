@@ -33,6 +33,8 @@ python shrine.py
 
 ## Sample Output
 
+Dead by Daylight - Shrine of Secrets
+
 ## API Information
 
 This program uses the unofficial Nightlight API endpoint: https://api.nightlight.gg/v1/shrine
