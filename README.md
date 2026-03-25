@@ -34,6 +34,7 @@ python shrine.py
 ## Sample Output
 
 Dead by Daylight - Shrine of Secrets
+Available Perks:
 
 ## API Information
 
