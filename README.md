@@ -35,6 +35,10 @@ python shrine.py
 
 Dead by Daylight - Shrine of Secrets
 Available Perks:
+Weave Attunement
+Finesse
+Come and Get Me!
+Undone
 
 ## API Information
 
