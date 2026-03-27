@@ -36,9 +36,13 @@ python shrine.py
 Dead by Daylight - Shrine of Secrets
 Available Perks:
 Weave Attunement
+   Character: The Lich
 Finesse
+   Character: Lara Croft
 Come and Get Me!
+   Character: Rick Grimes
 Undone
+   Character: The Unknown
 
 ## API Information
 
