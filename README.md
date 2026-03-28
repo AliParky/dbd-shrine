@@ -37,12 +37,16 @@ Dead by Daylight - Shrine of Secrets
 Available Perks:
 Weave Attunement
    Character: The Lich
+   Cost: 2000
 Finesse
    Character: Lara Croft
+   Cost: 2000
 Come and Get Me!
    Character: Rick Grimes
+   Cost: 2000
 Undone
    Character: The Unknown
+   Cost: 2000
 
 ## API Information
 
