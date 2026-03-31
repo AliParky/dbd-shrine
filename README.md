@@ -34,6 +34,7 @@ python shrine.py
 ## Sample Output
 
 Dead by Daylight - Shrine of Secrets
+577
 Available Perks:
 Weave Attunement
    Character: The Lich
