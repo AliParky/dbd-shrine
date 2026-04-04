@@ -32,9 +32,3 @@ def format_shrine_data(shrine_data):
 shrine_data = fetch_shrine_data()
 
 format_shrine_data(shrine_data)
-
-if shrine_data:
-    shrine_data = shrine_data["data"]
-
-for perk in shrine_data["perks"]:
-    print(perk['name'])
