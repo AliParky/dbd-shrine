@@ -29,6 +29,8 @@ def format_shrine_data(shrine_data):
         print(f"   Usage Tier: {perk['usage_tier']}")
     return
 
+print("Fetching shrine data")
+
 shrine_data = fetch_shrine_data()
 
 format_shrine_data(shrine_data)
