@@ -21,7 +21,7 @@ def format_shrine_data(shrine_data):
     end_date = datetime.fromisoformat(data["end"].replace("Z", "+00:00"))
     print("Dead by Daylight - Shrine of Secrets")
     print(f"Week: {data['week']}")
-    print(f"{start_date} - {end_date}")
+    print(f"Active: {start_date} - {end_date}")
     print("Available Perks:")
     for perk in data["perks"]:
         print(f"\n{perk['name']}")
