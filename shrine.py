@@ -23,6 +23,12 @@ def format_shrine_data(shrine_data):
     print(f"Week: {data['week']}")
     print(f"Active: {start_date} - {end_date}")
     print("Available Perks:")
+    usage_emoji = {
+        "veryhigh": "🔥",
+        "high": "⭐",
+        "average": "📊",
+        "low": "💤"
+    }
     for perk in data["perks"]:
         print(f"\n{perk['name']}")
         print(f"   Character: {perk['character']}")
