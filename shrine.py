@@ -20,6 +20,7 @@ def format_shrine_data(shrine_data):
     start_date = datetime.fromisoformat(data["start"].replace("Z", "+00:00"))
     end_date = datetime.fromisoformat(data["end"].replace("Z", "+00:00"))
     print("Dead by Daylight - Shrine of Secrets")
+    print("=" * 60)
     print(f"Week: {data['week']}")
     print(f"Active: {start_date} - {end_date}")
     print("Available Perks:")
