@@ -31,7 +31,7 @@ def format_shrine_data(shrine_data):
         "low": "💤"
     }
     for perk in data["perks"]:
-        print(f"\n{perk['name']}")
+        print(f"\n📜 {perk['name']}")
         print(f"   Character: {perk['character']}")
         print(f"   Cost: {perk['shards']}")
         print(f"   Usage Tier: {perk['usage_tier']} {usage_emoji.get(perk['usage_tier'])}")
