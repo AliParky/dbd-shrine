@@ -42,19 +42,19 @@ Available Perks:
 📜 Weave Attunement
    Character: The Lich
    Cost: 2000
-   Usage Tier: low 💤
+   Usage Tier: Low 💤
 📜 Undone
    Character: The Unknown
    Cost: 2000
-   Usage Tier: low 💤
+   Usage Tier: Low 💤
 📜 Come and Get Me!
    Character: Rick Grimes
    Cost: 2000
-   Usage Tier: low 💤
+   Usage Tier: Low 💤
 📜 Finesse
    Character: Lara Croft
    Cost: 2000
-   Usage Tier: veryhigh 🔥
+   Usage Tier: Veryhigh 🔥
 
 ## API Information
 
