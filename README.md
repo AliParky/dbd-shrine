@@ -39,6 +39,7 @@ Dead by Daylight - Shrine of Secrets
 Week: 577
 Active: 2026-03-24 15:00:00 - 2026-03-31 14:59:59
 Available Perks:
+============================================================
 📜 Weave Attunement
    Character: The Lich
    Cost: 2000
