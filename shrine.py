@@ -24,6 +24,7 @@ def format_shrine_data(shrine_data):
     print("=" * 60)
     print(f"Week: {data['week']}")
     print(f"Active: {start_date.strftime('%Y-%m-%d')} - {end_date.strftime('%Y-%m-%d')}")
+    print("=" * 60)
     print("Available Perks:")
     print("=" * 60)
     usage_emoji = {
