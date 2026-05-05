@@ -2,6 +2,8 @@
 
 A simple Python script that fetches and displays the current Dead by Daylight Shrine of Secrets perks using the Nightlight API.
 
+## What is the Shrine of Secrets?
+
 ## Features
 
 - Fetches current shrine data
