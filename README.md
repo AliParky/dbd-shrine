@@ -4,7 +4,7 @@ A simple Python script that fetches and displays the current Dead by Daylight Sh
 
 ## What is the Shrine of Secrets?
 
-The Shrine of Secrets is a weekly rotating shop.
+The Shrine of Secrets is a weekly rotating shop in Dead by Daylight.
 
 ## Features
 
