@@ -4,7 +4,7 @@ A simple Python script that fetches and displays the current Dead by Daylight Sh
 
 ## What is the Shrine of Secrets?
 
-The Shrine of Secrets is a weekly rotating shop in Dead by Daylight that features purchasable perks for each week. Players can buy these perks using Iridescent Shards. The shrine refreshes every week.
+The Shrine of Secrets is a weekly rotating shop in Dead by Daylight that features purchasable perks for each week. Players can buy these perks using Iridescent Shards. The shrine refreshes every week on Tuesday.
 
 ## Features
 
