@@ -63,6 +63,8 @@ Available Perks:
    Cost: 2000
    Usage Tier: Veryhigh 🔥
 
+## Usage Tier Key
+
 ## API Information
 
 This program uses the unofficial Nightlight API endpoint: https://api.nightlight.gg/v1/shrine
