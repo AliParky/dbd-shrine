@@ -65,6 +65,11 @@ Available Perks:
 
 ## Usage Tier Key
 
+- Very High
+- High
+- Average
+- Low
+
 ## API Information
 
 This program uses the unofficial Nightlight API endpoint: https://api.nightlight.gg/v1/shrine
