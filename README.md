@@ -65,10 +65,10 @@ Available Perks:
 
 ## Usage Tier Key
 
-- Very High
-- High
-- Average
-- Low
+- 🔥 Very High
+- ⭐ High
+- 📊 Average
+- 💤 Low
 
 ## API Information
 
