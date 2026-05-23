@@ -66,7 +66,7 @@ Available Perks:
 ## Usage Tier Key
 
 Here's the various Usage Tier brackets 
-- 🔥 Very High >3
+- 🔥 Veryhigh >3
 - ⭐ High 1.5-3
 - 📊 Average 0.5-1.5
 - 💤 Low <0.5
