@@ -66,10 +66,10 @@ Available Perks:
 ## Usage Tier Key
 
 The tier of each icon indicates its popularity. Here's the various Usage Tier brackets 
-- 🔥 Veryhigh >3
-- ⭐ High 1.5-3
-- 📊 Average 0.5-1.5
-- 💤 Low <0.5
+- 🔥 Veryhigh >3x
+- ⭐ High 1.5x-3x
+- 📊 Average 0.5x-1.5x
+- 💤 Low <0.5x
 
 ## API Information
 
