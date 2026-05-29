@@ -65,7 +65,7 @@ Available Perks:
 
 ## Usage Tier Key
 
-The tier of each icon indicates its popularity. It's determined by comparing the perk's usage rate with what it would be if each perk were used equally. Here's the various Usage Tier brackets:
+The tier of each icon indicates its popularity. It's determined by comparing the perk's usage rate with what it would be if each perk were used equally. I.E. if there were "n" perks then each would have a 100/n percent usage rate. Here's the various Usage Tier brackets:
 - 🔥 Veryhigh >3x
 - ⭐ High 1.5x-3x
 - 📊 Average 0.5x-1.5x
