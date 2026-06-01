@@ -37,6 +37,7 @@ python shrine.py
 
 ## Sample Output
 
+```
 ============================================================
 Dead by Daylight - Shrine of Secrets
 ============================================================
@@ -62,6 +63,7 @@ Available Perks:
    Character: Lara Croft
    Cost: 2000
    Usage Tier: Veryhigh 🔥
+```
 
 ## Usage Tier Key
 
